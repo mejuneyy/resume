@@ -7,7 +7,9 @@
 Email：yangyang@itqee.com
 
 年龄：30+
+
 性别：男
+
 从业时长：10年
 
 任职岗位：技术经理/主管
