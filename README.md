@@ -13,9 +13,7 @@ Email：yangyang@itqee.com
 任职岗位：技术经理/主管
 
 
-
-
-
+<br/><br/>
 
 
 #### 经验
@@ -41,9 +39,7 @@ CentOS、Fedora、Ubuntu、Windows Server
 微信、支付宝、微博（新浪/腾讯）、QQ、FaceBook
 
 
-
-
-
+<br/><br/>
 
 
 #### 项目经历
@@ -92,9 +88,7 @@ CentOS、Fedora、Ubuntu、Windows Server
 
 ...
 
-
-
-
+<br/><br/>
 
 
 
